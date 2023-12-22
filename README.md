@@ -1,1 +1,1 @@
-# PhisingEmail-Detection
+# PhisingEmail
